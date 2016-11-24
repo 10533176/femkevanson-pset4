@@ -12,6 +12,7 @@ import SQLite
 
 class DataBaseHelper {
     
+    
     private let notes = Table("notes")
     
     private let note = Expression<String?>("note")
