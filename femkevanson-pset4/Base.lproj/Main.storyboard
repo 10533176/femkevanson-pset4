@@ -46,7 +46,7 @@
                                         <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="EGN-os-07m" id="OWx-Zb-3oS">
-                                            <frame key="frameInset" width="375" height="43.5"/>
+                                            <frame key="frameInset" width="375" height="44"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q1i-7C-LDu">
@@ -63,8 +63,8 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="Q1i-7C-LDu" firstAttribute="top" secondItem="OWx-Zb-3oS" secondAttribute="topMargin" constant="-2" id="0hs-tN-OZ6"/>
-                                                <constraint firstItem="uJW-xK-dT6" firstAttribute="leading" secondItem="Q1i-7C-LDu" secondAttribute="trailing" constant="13" id="7Cf-Fv-dx6"/>
-                                                <constraint firstItem="uJW-xK-dT6" firstAttribute="trailing" secondItem="OWx-Zb-3oS" secondAttribute="trailingMargin" id="Fb4-5G-Zpp"/>
+                                                <constraint firstItem="uJW-xK-dT6" firstAttribute="leading" secondItem="Q1i-7C-LDu" secondAttribute="trailing" constant="14" id="7Cf-Fv-dx6"/>
+                                                <constraint firstItem="uJW-xK-dT6" firstAttribute="trailing" secondItem="OWx-Zb-3oS" secondAttribute="trailingMargin" constant="1" id="Fb4-5G-Zpp"/>
                                                 <constraint firstItem="uJW-xK-dT6" firstAttribute="centerY" secondItem="OWx-Zb-3oS" secondAttribute="centerY" id="Pi5-V0-Cza"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="Q1i-7C-LDu" secondAttribute="bottom" constant="4.5" id="Rfn-tf-38F"/>
                                                 <constraint firstItem="uJW-xK-dT6" firstAttribute="top" secondItem="OWx-Zb-3oS" secondAttribute="topMargin" constant="-1" id="Wpr-4b-lI6"/>

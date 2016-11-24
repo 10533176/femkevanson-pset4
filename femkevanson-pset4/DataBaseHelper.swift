@@ -35,8 +35,6 @@ class DataBaseHelper {
         }
     }
     
-    
-    
     private func setupDataBase() throws {
         
         // use to save the data in path
